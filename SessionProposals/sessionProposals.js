@@ -22,7 +22,7 @@ if (!fs.existsSync("urls")){
 }
 
 
-var ETHERPAD_ID_PREFIX = "2016_TEST0227_SESSION_";
+var ETHERPAD_ID_PREFIX = "2016_Session";
 
 
 
@@ -44,7 +44,7 @@ function processSessionsSheet (data, tabletop) {
   var urls = [];
   for(var i = 0; i < numberOfRows; i++) {
     var row = rows[i];
-    var padId = getPadId(row);
+    var padId = getPadId(row, i+1);
     var padContent = padContentBuilder.build(row);
 
     urls.push("https://etherpad.alliedmedia.org/p/" + padId);
@@ -69,8 +69,9 @@ function processSessionsSheet (data, tabletop) {
   }
 
 
-function getPadId(row) {
-  var title = getTitle(row);
+function getPadId(row, num) {
+  var numString = ("0000" + num).slice(-3);
+  var title = numString + "_" + getTitle(row);
   return convertTitleToUrl(title);
 }
 
@@ -130,7 +131,7 @@ function setTextCallback(error, data, padIdClosure, padContentClosure) {
 
 
 Tabletop.init({
-  key: "1vlhv6jgxI33zM040o2AkdNywuJX7CMsoZ_dabHg5VAQ",
+  key: "17oclTki8oaYwsRsqyYDm0i3oiEKsNy__ZQEUlSv8pmc",
   callback: processSessionsSheet,
   prettyColumnNames: false,
   simpleSheet: false

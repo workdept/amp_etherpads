@@ -61,20 +61,15 @@ function buildSessionForTrackContent (row) {
 	padContent += buildContentSection("Title", row['sessiontitle']);
 	padContent += buildContentSection("For Track", row['towhattrackareyouproposing']);
 	padContent += buildContentSection("Content type", row['whattypeofcontentareyouproposing']);
+	padContent += buildContentSection("Description", row['pleasewriteashortdescriptionofyoursession.']);
 	padContent += buildContentSection("Read the call for proposals?", row['ihavereadthecallforproposalsforamc2016']);
-	padContent += buildContentSection("Description", row['pleasewriteashortdescriptionofyoursession']);
 	padContent += buildContentSection("Media-based organizing", row['pleasedescribehowyoursessionincludestheconceptofmedia-basedorganizing']);
 	padContent += buildContentSection("Need Financial Aid?", row['willyoursessionspresentersneedfinancialassistancetoattendandpresentattheamc']);
-	padContent += buildContentSection("If so, how many people?", row['ifyouansweredyesabovepleaselistthenumberof25scholarshipcouponsyouarerequestingforallpresentersinthissession']);
-	padContent += buildContentSection("How the session fits in with Track", row['pleasedescribehowyoursessionfitswithinthetrackyouselected']);
-
-
-	padContent += buildPrimaryPresenterSection(row, 'pointpersonpresenter1name', 'pointpersonpresenter1emailaddress',  'pointpersonpresenter1phonenumber', 'pointpersonpresenter1bio');
-	padContent += buildPresenterSection(row, 2, 'presenter2name', 'presenter2emailaddress', 'presenter2bio');
-	padContent += buildPresenterSection(row, 3, 'presenter3name', 'presenter3emailaddress', 'presenter3bio');
-	padContent += buildPresenterSection(row, 4, 'presenter4name', 'presenter4emailaddress', 'presenter4bio');
-	padContent += buildPresenterSection(row, 5, 'presenter5name', 'presenter5emailaddress', 'presenter5bio');
-	padContent += buildPresenterSection(row, 6, 'presenter6name', 'presenter6emailaddress', 'presenter6bio');
+	var financialAssistanceRequest = row['willyoursessionspresentersneedfinancialassistancetoattendandpresentattheamc']
+	if(financialAssistanceRequest === 'Yes') {
+		padContent += buildContentSection("If so, how many people?", row['ifyouansweredyesabovepleaselistthenumberof25scholarshipcouponsyouarerequesting.']);
+	}
+	padContent += buildPresentersSection(row);
 
 	padContent += buildContentSection("Submission time", row['timestamp']);
 
@@ -91,14 +86,23 @@ function buildSessionForPracticeSpaceContent(row) {
 	padContent += buildContentSection("Read the call for proposals?", row['ihavereadthecallforproposalsforamc2016_2']);
 	padContent += buildContentSection("Media-based organizing", row['pleasedescribehowyourpracticespacesessionincludestheconceptofmedia-basedorganizing']);
 	
+	padContent += buildPresentersSection(row);
+	
+	padContent += buildContentSection("Submission time", row['timestamp']);
+	
+	return padContent;
+}
+
+function buildPresentersSection(row) {
+	var padContent = "";
+
 	padContent += buildPrimaryPresenterSection(row, 'pointpersonpresenter1name', 'pointpersonpresenter1emailaddress',  'pointpersonpresenter1phonenumber', 'pointpersonpresenter1bio');
 	padContent += buildPresenterSection(row, 2, 'presenter2name', 'presenter2emailaddress', 'presenter2bio');
 	padContent += buildPresenterSection(row, 3, 'presenter3name', 'presenter3emailaddress', 'presenter3bio');
 	padContent += buildPresenterSection(row, 4, 'presenter4name', 'presenter4emailaddress', 'presenter4bio');
 	padContent += buildPresenterSection(row, 5, 'presenter5name', 'presenter5emailaddress', 'presenter5bio');
 	padContent += buildPresenterSection(row, 6, 'presenter6name', 'presenter6emailaddress', 'presenter6bio');
-	
-	padContent += buildContentSection("Submission time", row['timestamp']);
-	
+
 	return padContent;
+	
 }
