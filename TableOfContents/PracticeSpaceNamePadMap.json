@@ -1,0 +1,45 @@
+
+{ 
+	"Really Rad Radio and TV":
+	{   "padId": "2016_PS_Really_Rad_Radio_Video",
+	 	"title": "Really Rad Radio & Video Practice Space",
+	 	"subtitle": "Building community power and voice",
+	 	"description": "For the past seven years, AMC attendees have seized the airwaves through the Really Rad Radio Practice Space. This year, Detroit’s new LPFM station WNUC teams up with PhillyCAM to provide live radio broadcasting and online video streaming from the AMC. The Really Rad Radio & Video Practice Space will explore ways in which communities build power by uplifting their voice through the combined practice of DIY radio and video production. Participants of all ages will train to use tools to tell their stories via live radio, online audio and video streaming, and short-form content that documents the AMC experience. Participants will leave with a sense of the value and power of community media as well as radio and video making skills. In addition to offering on-air timeslots, this space will feature training stations where young broadcasters and other tech-savvy individuals will share knowledge about production process fundamentals, equipment operation techniques, and accessible distribution methods.",
+	 	"coordinators": ["Ayana Rubio", "Joan Ross", "Antoine Haywood", "Michelle Alimoradi"]
+	},    
+	"Wage Love Detroit":
+	{   "padId": "2016_PS_Wage_Love_Detroit",
+	 	"title": "Wage Love Detroit Practice Space", 
+	 	"subtitle": "Supporting intergenerational and interconnected movements",
+	 	"description": "Detroit-rooted, international activist and healer Charity Hicks first issued the call to \"wage love\" in the ongoing fight against water shut-offs in Detroit. Since then, this call has evolved into a consciousness. \"Wage Love\" encompasses the many ways Detroit communities transform state-sanctioned violence and structural racism into action that broadens personal connections and builds loving community.<br>This action space is a convergence point where AMC participants from all locales can experience a spectrum of \"waging love,\" through the demonstrated work of activists and organizers supporting Detroit’s intergenerational and interconnected justice movements.",
+	 	"coordinators":["Bryce Detroit", "Shane Bernardo", "Kristian Davis-Bailey", "William Copeland", "kezia curtis"]
+	},    
+	"Creative Coping and Grieving Arts":
+	{   "padId": "2016_PS_Creative_Coping_and_Grieving_Arts",
+	 	"title": "Creative Coping and Grieving Arts Practice Space",
+	 	"subtitle": "Navigating individual and collective grief",
+	 	"description": "The Creative Coping and Grieving Arts Practice Space is a space to practice, share and honor our experiences living through grief, loss and trauma. We will hold space for the reality of grief that folks carry in their bodies, especially those who have lost loved ones to violence and/or traumatic loss. We will explore the various ways we navigate our individual and collective grief, including healing modalities such as bodywork and reiki, labyrinths and tarot readings. We will create together, build relationships and begin to record and anthologize our wisdom. We envision developing resources such as a \"Radical Caretaker’s Toolkit.\" This space will honor the beauty and power of emotionality through ancestral and revolutionized media approaches, including rituals for honoring our spirits and ancestors, as well ways to remember our loved ones through storytelling.",
+	 	"coordinators": ["Emani Love", "mia susan amir", "Cornetta Lane", "Lehna Huie", "Corina M. Fadel"]
+	},    
+	"Women in Hip Hop":
+	{   "padId": "2016_PS_Uplifting_Women_s_Voices_in_Hip_Hop",
+	 	"title": "Uplifting Women’s Voices in Hip Hop Practice Space",
+	 	"subtitle": "Feminist hip hop activism",
+	 	"description": "Hip Hop has many cultural forms (DJing, dance, emceeing, graffiti, and knowledge) but too often these are used as propaganda tools to oppress women of color. The Uplifting Women’s Voices in Hip Hop Practice Space will bring together artists, activists and academics to stage new conversations utilizing creativity to reshape the dominant narratives in music and media.",
+	 	"coordinators": ["Piper Carter", "Stacey Hale", "Carlotta Tutt", "Lynda Carter", "Jovonda Davenport", "Christina Do"]
+	},
+	"Dancing Our Lives":
+	{   "padId": "2016_PS_Dancing_Our_Lives",
+	 	"title": "Dancing Our Lives Practice Space",
+	 	"subtitle": "Reimagining dance and movement for empowerment",
+	 	"description": "Dancing Our Lives Practice Space is for anybody who is curious about how dance and movement can facilitate storytelling, aid in social movements, and benefit everyday health and wellbeing. Together we will reimagine dance and movement that empowers Black, indigenous, people of color, queer and trans people, self-identified crips, fat folks, disabled folks, deaf and hard-of-hearing people, elders and folks who are often left out of dance. Dancing Our Lives will bring together various movement styles from folk dance, street dance, classical dance, martial arts, and the healing arts to celebrate our lives, survival and continual resistance. Let's carve out space in dance, movement and media for our bodies and experiences to exist. We don't have to do it the same but we can do it together!",
+	 	"coordinators": ["Sze-Yang Ade- Lam", "Jelani/Ravyn Ade-Lam", "Kumari Giles"]
+	},    
+	"Kids":
+	{   "padId": "2016_PS_Kids",
+	 	"title": "Kids Practice Space",
+	 	"subtitle": "",
+	 	"description": "The Kids Practice Space is a place for intergenerational community – kids, caregivers, parents, and friends – to build and share stories. We will provide support for participants based on a transformative justice model. We will listen to each other, set mutual agreements, play cooperative games, engage in creative problem solving, encourage youth leadership and independence, and more! We will offer workshops that involve zine-making and creating murals to encourage participants to share their ideas and stories about issues that matter to them. Our goal is for every family member to have a chance to participate in empowering media-making adventures at the AMC.",
+	 	"coordinators":[]
+	}
+}
