@@ -70,7 +70,7 @@ function buildPadContent(trackName, trackInfo, rows) {
   			if(row['towhattrackareyouproposing'].startsWith(trackName)) {
   				padContent += "<strong>" + row['sessiontitle'] + "</strong>";
   				padContent += "<br>";
-  				padContent += "ETHERPAD URL";
+  				padContent += row['etherpadurl'];
   				padContent += "<br><br>"
   			}
 		}

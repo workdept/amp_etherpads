@@ -70,8 +70,7 @@ function processSessionsSheet (data, tabletop) {
 
 
 function getPadId(row, num) {
-  var numString = ("0000" + num).slice(-3);
-  var title = numString + "_" + getTitle(row);
+  var title = "_" + getTitle(row);
   return convertTitleToUrl(title);
 }
 

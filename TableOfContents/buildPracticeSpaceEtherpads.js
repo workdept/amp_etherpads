@@ -68,7 +68,7 @@ function buildPadContent(practiceSpaceName, practiceSpaceInfo, rows) {
   			if(row['whichpracticespaceareyouproposingfor'].startsWith(practiceSpaceName)) {
   				padContent += "<strong>" + row['whatisthetitleofyourpracticespacesession'] + "</strong>";
   				padContent += "<br>";
-  				padContent += "ETHERPAD URL";
+  				padContent += row['etherpadurl'];
   				padContent += "<br><br>"
   			}
 		}
