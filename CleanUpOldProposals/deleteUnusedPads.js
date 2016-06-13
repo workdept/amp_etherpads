@@ -12,13 +12,13 @@ function callback(a, listOfPads) {
 	var list =listOfPads["padIDs"];
 	for(var i = 0; i < list.length; i++) {
 
-		if(true)//list[i].startsWith("2016_TEST0227_SESSION")) 
+		if(false)
 		{
-			//console.log("delete");
+			
 			ep.getRevisionsCount({padID: list[i]}, deleteCallback);
 		}
 		else{
-			//console.log("no delete")
+			
 		}
 	}
 }
