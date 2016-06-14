@@ -1,0 +1,3 @@
+# Table of Contents
+
+The scripts in this folder create parts of the Table of Contents. The 'master' page is created by hand, but the scripts here create the pages for each Track, PracticeSpace and NetworkGathering.  The scripts parses the session proposal submissions and puts the proposals into the correct etherpad along with the instructions for each category.  The General Track has its own instructions, so it has a separate script.  You need to run all four build* scripts to generate all the ToC Etherpads.  Running these scripts again will write over any data entered by a user.
