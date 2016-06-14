@@ -1,6 +1,6 @@
 # amp_etherpads
 
-Organizing the Allied Media Conference (AMC)
+**Organizing the Allied Media Conference (AMC)**
 
 *  Tracks, Practice Spaces, Network Gatherings (TPSNGs)
   
@@ -20,7 +20,7 @@ Organizing the Allied Media Conference (AMC)
 
 
 
-Technologies
+**Technologies**
 
 *  Google Forms and Spreadsheet
   
