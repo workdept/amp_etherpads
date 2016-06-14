@@ -1,3 +1,3 @@
-# TPSNG Proposals
+# Merging session proposal spreadsheets
 
-The scripts in this folder parse each form submissions and generate corresponding Etherpads. Executing the scripts also outputs the URLs to each Etherpad in the order of the spreadsheet. After running the script, you must copy the urls into the spreadsheet.
+Because we were unable to use an editable URL, we ended up creating a new form for the session finalization process and sent users pre-filled URLs.  After the users submitted this info, we had two spreadsheets of data, one from the original form and one from the finalization form.  We needed data from both these sheets for the sched upload, but they were in different orders. Sheets are in the order that users submit them, so we had to pair the matching rows and put it all in one sheet. The scripts in this folder help accomplish that by outputting columns from the original form in the order they appear in the finalization form.
