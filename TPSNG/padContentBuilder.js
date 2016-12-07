@@ -50,9 +50,9 @@ function buildContent (row) {
 
 	var type = row['areyouproposingatrackpracticespaceornetworkgathering'];
 	padContent += buildContentSection("Name of your " + type, row['nameofyourtpsng']);
-	padContent += buildContentSection("Involving Media-based Organizing", row['howisyourcontentconnectedtomedia-basedorganizingmax.250words']);
-	padContent += buildContentSection("Description", row['pleasewritea5-sentencedescriptionofyourtpsngmax250words']);
-	padContent += buildContentSection("Additional Info", row['pleasewritea5-sentencedescriptionofyourtpsngmax250words']);		
+	padContent += buildContentSection("Involving Media-based Organizing", row['howisyourcontentconnectedtomedia-basedorganizingmax.1600characters']);
+	padContent += buildContentSection("Description", row['pleasewritea5-sentencedescriptionofyourtpsngmax1600characters']);
+	padContent += buildContentSection("Additional Info", row['doyouhaveanyquestionsoradditionalinformationyouwanttoprovideusmax.250words']);		
 
 	padContent += buildCoordinators(row);
 		

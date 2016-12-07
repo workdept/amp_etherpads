@@ -1,0 +1,61 @@
+html, body{
+	width:100%;
+	font-family: sans-serif;
+}
+
+div {
+	display: inline-block;
+	height:100%;
+
+}
+
+
+
+
+#etherpad_menu {
+	border-right: 2px solid black;
+	width: 20%;
+	padding: 20px;
+	z-index: 10;
+	vertical-align: top;
+	overflow-y: scroll;
+	overflow-x: auto;
+}
+
+*:focus {outline:0;}
+
+ul ul {
+	font-weight:normal;
+	font-size: .8em;
+}
+ul {
+	margin-left: 20px;
+	font-weight: bold;
+}
+
+li {
+	margin-bottom: 5px;
+	white-space: nowrap;
+	overflow:hidden;
+}
+
+a {color:#FF0000;}      /* unvisited link */
+a:visited {color:#FF0000;}  /* visited link */
+a:hover {color:#FF0000; background-color: yellow;}  /* mouse over link */
+a:active {color:#FF0000;}  /* selected link */
+
+#etherpad{
+	width:80%;
+	position: relative;
+}
+
+#etherpad iframe {
+	position: absolute;
+	width:100%;
+	height: 100%;
+	visibility: hidden;
+}
+
+#etherpad iframe.top {
+	visibility: visible;
+}

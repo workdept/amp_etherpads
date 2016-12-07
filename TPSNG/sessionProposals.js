@@ -7,7 +7,7 @@ var padContentBuilder = require("./padContentBuilder");
 var ep = etherpadLiteClient.connect({
   apikey: '9e7d36e7a4a510484d523f29753a8c0079bdb008ec64e7749911c76e4118a185',
   host: 'etherpad.alliedmedia.org',
-  port: 443
+  port: 80
 });
 
 var ETHERPADS_ID_CHAR_SIZE_LIMIT = 50;
@@ -18,7 +18,7 @@ function processSessionsSheet (data, tabletop) {
   var sheet = data['Form Responses 1'];
   var rows = sheet.elements;
   var numberOfRows = rows.length;
-  for(var i = 0; i < 1; i++) {
+  for(var i = 0; i < numberOfRows; i++) {
     
     var row = rows[i];
     var padId = getPadId(row);
@@ -47,7 +47,7 @@ function getTitle(row) {
 }
 
 function convertTitleToUrl(title) {
-  return ("2017_Test_TPSNG_" + title.replace(/\W+/g, '_').toLowerCase()).substring(0,ETHERPADS_ID_CHAR_SIZE_LIMIT);
+  return ("2017_TPSNG_" + title.replace(/\W+/g, '_').toLowerCase()).substring(0,ETHERPADS_ID_CHAR_SIZE_LIMIT);
 }
 
 
