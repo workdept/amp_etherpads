@@ -7,13 +7,9 @@ module.exports = {
 
 function buildDetails (proposal) {
 	var padContent = "";
-	
 	padContent += buildSessionInfoSection(proposal.sessionInfo);
-	
 	padContent += buildPresentersSection(proposal.presenters);
-
 	padContent += buildContentSection("Submission time", proposal.timestamp);
-
 	return padContent;
 }
 
@@ -37,7 +33,6 @@ function buildPresentersSection(presenters) {
 		padContent += buildPresenterSection(presenters[i], i+1);
 	}
 	return padContent;
-	
 }
 
 function buildPresenterSection(presenterInfo, number ) {

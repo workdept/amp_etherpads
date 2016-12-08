@@ -17,7 +17,7 @@ dispatcher.onPost('/proposal', function(request, response){
    
    var sheetsInfo = JSON.parse(request.body);
    var proposal = FromSheets.convert(sheetsInfo);
-   var url = etherpadCreator.create(proposal);
+   var url = etherpadCreator.create(proposal, overwrite=false);
    response.end(url);
 });
 
