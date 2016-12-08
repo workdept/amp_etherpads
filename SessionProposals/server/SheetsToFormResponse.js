@@ -1,4 +1,4 @@
-var proposalInfo = require('./FormResponse.js')
+var proposalInfo = require('../common/FormResponse.js')
 
 exports.convert = function(sheetData) {
 	var sessionInfo = extractSessionInfo(sheetData);

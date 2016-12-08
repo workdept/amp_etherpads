@@ -6,6 +6,7 @@ exports.SessionProposal = function(timestamp, sessionInfo, presenters) {
 
 exports.PresenterInfo = function(name, email, phone, bio, affiliation) {
     this.name = name;
+    this.email = email;
     this.bio = bio;
     this.phone = phone;
     this.affiliation = affiliation;
