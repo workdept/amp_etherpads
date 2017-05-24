@@ -4,7 +4,7 @@ require 'net/smtp'
 
 
 FROM_EMAIL = 'amc@alliedmedia.org'
-PASSWORD = '***********'
+PASSWORD = 'alliedmedia2017'
 
 def send_email(recipients, body, subject) 
 
@@ -78,7 +78,7 @@ EOF
 	smtp = Net::SMTP.new 'smtp.mandrillapp.com', 587
 	smtp.enable_starttls
 
-	smtp.start('alliedmedia.org','Allied Media Projects', '*********', :login) do |smtp|
+	smtp.start('alliedmedia.org','Allied Media Projects', 'xNE393rJNMtLHbROfV98LA', :login) do |smtp|
 	  smtp.send_message(part1 + part2, FROM_EMAIL, emails)
 	end
 end

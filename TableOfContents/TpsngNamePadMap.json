@@ -1,97 +1,114 @@
 
-{ "Abundant Bodies":
-	{   "padId": "2016_Track_Abundant_Bodies",
-	 	"title": "Abundant Bodies Track",
-	 	"subtitle": "Celebrating the beauty of all bodies",
-	 	"description": "How do we unlearn mainstream ideas of what a body should look like and learn to celebrate the diversity, resilience, wisdom and beauty of all bodies? The Abundant Bodies Track will challenge the ongoing ways mainstream media shames and harms abundant bodies, name fat phobia in our organizing and activism, and create media and practical strategies for resistance, healing and community building. We will broaden the conversation around fat activism by centering this track on the voices of indigenous, Black, people of color, dis/abled, super-sized, trans and queer fat folks. Abundant/thick/fat bodies are the target of so much hate, policing and negativity, even in our organizing communities. Through workshops, panels and skillshares we will transform mainstream ideas around abundant bodies and create resilient communities, media and art that celebrates our bodies!",
-	 	"coordinators": ["Linda Dianne", "Amanda Levitt", "annie chen", "KC Slack", "Najee Haynes-Follins", "Kytara Epps"]
+{ 
+	"Resourcing and Sustaining Our Movements Track":
+	{   "padId": "2017_Track_Resourcing_And_Sustaining_Our_Movements",
+	 	"title": "Resourcing and Sustaining Our Movements",
+	 	"subtitle": "Collaboration, solidarity and abundance",
+	 	"description": "How can we fund, resource and sustain our work and movements in ways that energize us, strengthen our organizing, and build community? The Resourcing and Sustaining our Movements Track will investigate and examine grassroots fundraising how-tos, self and community care strategies, alternative economic models (i.e. co-ops, gift economies, etc.), grassroots entrepreneurship and the role of media, art and technology in supporting it all. Through participatory workshops, one-on-one consulting, skill shares, and peer networking spaces, we will explore how to grow the resources we need for our movements and communities to thrive. This track will offer helpful strategies, whether you are starting a collective or small business, working as an independent artist, running a non-profit or working outside of traditional non-profit structures. We will walk away with new fundraising ideas, relationships, and the spirit of collaboration, solidarity, and abundance.",
+	 	"coordinators": ["Crystal Middlestadt", "Jax Gil", "Sophia Softky", "Tanya Mote", "Joy Messinger"]
 	},    
-	"Black Survival Mixtape": 
+	"Radical Libraries, Archives, and Museums Track": 
 	{
-		"padId": "2016_Track_Black_Survival_Mixtape",
-		"title": "Black Survival Mixtape Track",
-		"subtitle": "Celebrating and honoring black life",
-		"description": "Black warrior poet Audre Lorde wrote, \"so it is better to speak/remembering/ we were never meant to survive.\"<br>In the spirit of Audre Lorde’s words, the Black Survival Mixtape Track seeks to celebrate and honor black life, while making media in the face of oppression. We think of the mixtape as a collective space to share practices around the different ways in which we cope, heal and express ourselves when confronted with oppressive systems designed to cut us down. Participants will leave this track with tangible and practical skills and media to build upon and share out.",
-		"coordinators": ["Reuben Telushkin", "Jova Lynne", "Casey Rocheteau", "Jay-Marie Hill", "Jayy Dodd"]
+		"padId": "2017_Track_Radical_Libraries_Archives_And_Museums",
+		"title": "Radical Libraries, Archives, and Museums",
+		"subtitle": "Strengthening our knowledge, culture, and collective memory",
+		"description": "Libraries, archives, and museums educate, inform, and create bridges to culture and technology. The Radical Libraries, Archives, and Museums Track will envision galleries, libraries, archives, and museums as centers that: support movements for social equity; provide information and cultural heritage to social justice workers; and serve as places to explore how to use art, media, and technology for social transformation. In this track, we will specifically consider the role of librarians, archivists, and curators in strengthening the knowledge, culture, and collective memory of communities impacted by social and economic disparity.",
+		"coordinators": ["Celeste Â-Re", "Shoshanna Wechter", "Bekezela Mguni", "Sine Hwang Jensen", "Laurel Johnson", "Veronica Leigh-Milliner","Karina Hagelin"]
 	},
-	"Building Climate Resilient Communities": 
+	"Kids & Caregivers Transform the World! Track":
 	{
-		"padId": "2016_Track_Building_Climate_Resilient_Communities",
-		"title": "Building Climate Resilient Communities Track",
-		"subtitle": "Community-led strategies to face climate change",
-		"description": "Climate change endangers our material, physical, and spiritual wellbeing – our response must be radical and transformative. The Building Climate Resilient Communities Track will explore community-led strategies to move beyond fossil fuel and consumer-based societies and adapt to face increasing climate change impacts. In order to build resiliency and sustainability in our communities, we will explore some of the most transformative and exciting alternatives to the drivers of climate change including DIY personal and collective projects and large scale infrastructure such as microgrids and post-disaster communication hubs. Participants will walk away with tools to reimagine their communities and relationships to each other, while also preparing to navigate climate change.<br>**Our track upholds three core climate justice values, which for us include: (1) centering and following the leadership of communities most impacted by climate change; (2) addressing its root causes; and (3) opposing oppressive systems and practices that exploit our communities.",
-		"coordinators": ["Ceci Pineda", "Brenda Salas", "Antonio Cosme", "Kat Yang-Stevens"]
+		"padId": "2017_Track_Kids_And_Caregivers_Transform_The_World",
+		"title": "Kids and Caregivers Transform the World!",
+		"subtitle": "Intergenerational movement-building",
+		"description": "The Kids & Caregivers Transform the World! track is designed to ensure that kids and caregivers are an integral part of intergenerational movement-building and organizing. In this track we will create spaces that welcome young people using play-based activities, music, dance, cooking, eating, and fun! We will host important conversations about topics of consent, body positivity, and radical parenting in a complex world, centering the experiences and leadership of kids and families with marginalized identities. People of all ages will come away with an appreciation for the role of play and imagination in movement building. We believe in the power and transformative potential of including kids and caregivers in resistance and revolution!",
+		"coordinators": ["Robin Markle","Brittany Campese","Rach","Phuong Nguyen"]
 	},
-	"Community Technology and Independent Media": 
+	"Disrupting Mainstream History Track":
 	{
-		"padId": "2016_Track_Community_Technology_and_Independent",
-		"title": "Community Technology and Independent Media Track",
-		"subtitle": "Using technology to support our communities",
-		"description": "Technology shapes much of the organizing and journalism that we do, both online and offline. In the Community Technology and Independent Media Track, we will learn about the ecosystem of free and open source tools and software, how we can contribute to it, and how we can better use technology in our work. Through workshops, panels, dialogues, skill-sharing, and relationship building, we will engage in a critical analysis of the tools we use and who owns them. We will also explore privacy and security in our organizations and personal lives. We will bring together community media organizers, journalists, designers, developers, and media-makers to share their experiences using technology to support their communities. Participants will leave with a toolbox of open source software and a better understanding of how to support technology in their communities.",
-		"coordinators": ["Erika Owens", "Gabriela Rodríguez", "Tara Adiseshan", "Francis Tseng"]
+		"padId": "2017_Track_Disrupting_Mainstream_History",
+		"title": "Disrupting Mainstream History",
+		"subtitle": "Memory keeping, storytelling, and community archives",
+		"description": "Community-based historical storytelling and archiving can empower, and create representations that affirm, support, and create a spirit of self-worth for marginalized communities. Community stories offer lessons from the past, connections to the present, and insight for the future. The Disrupting Mainstream History Track will explore how to produce, retain, preserve, and reuse community stories in support of efforts for justice, liberation, and social good. We will explore accessible tools to save, document, and share community stories. Through dialogue, panels, workshops, screenings, and meet-ups, participants will build relationships, develop preservation practices and skills, and gain insights into various efforts to document and share community stories. Topics may include models for community archives, indigenous frameworks of preservation, remixing archival material for creative use, and open-source DIY archiving solutions. Together we can help disrupt the silences and erasures found in mainstream history.",
+		"coordinators": ["Itza Carbajal", "Graciela I. Sánchez", "Cory Fischer-Hoffman", "Ayshea Khan", "Rachel Mattson", "Caroline Rubens"]
 	},
-	"Education for Freedom": 
+	"Art as Resistance Track":
 	{
-		"padId": "2016_Track_Education_for_Freedom" ,
-		"title": "Education for Freedom Track",
-		"subtitle": "Exploring relationships between education and liberation",
-		"description":"The Education for Freedom Track will engage youth, educators, organizers, artists and media-makers to define, exhibit, and collaborate on what education for freedom means. Our track uses a model that builds on itself by first defining what is \"education for freedom,\" then showcasing examples in different contexts, and finally bringing various constituents together to collaborate and drive the work forward. Participants will leave the track with new ideas about what education for freedom means, ways to orient their practice, and new connections and opportunities to engage in education for freedom locally and nationally. We are excited to make space for those working both inside and outside of schools, and provide room for educational freedom-fighters to connect.",
-		"coordinators": ["Nate Mullen", "Thomas Nikundiwe", "Carla Shalaby", "Tanya Jackson", "Nataliya Braginsky"]
+		"padId": "2017_Track_Art_As_Resistance",
+		"title": "Art as Resistance",
+		"subtitle": "Creative resistance in our communities",
+		"description": "Our art practices are vital to resistance to injustice and cultivation of healing. Whether resisting displacement, privatization, police violence or environmental destruction, this track will explore visual and performance projects that disrupt, inform, affirm and catalyze social change. We will also examine the relationship between art and gentrification, the criminalization of political street art and the regulation of art in public spaces. Participants will exchange ideas, skills and lessons learned to develop new strategies and inspiration for creative resistance in our communities.",
+		"coordinators": ["Stephanie Mae", "Sicily Amaris McRaven","Kate Levy"]
 	},
-	"Filmmaking and Beyond": 
+	"Sound, Revolution and ARTivism Track":
 	{
-		"padId": "2016_Track_Filmmaking_and_Beyond",
-		"title": "Filmmaking and Beyond Track",
-		"subtitle": "" ,
-		"description": "What is a story? Who speaks, writes and visualizes our stories? When we tell stories through film, we have the capacity to change the landscapes of our collective imagination. The Filmmaking & Beyond Track will deconstruct dominant narratives of white, capitalist, patriarchal, heteronormative, and colonial systems by examining the ways in which visual storytelling and moving image can be used as a means of reclaiming our stories. We will examine the history and power of visual storytelling in writing and building new narratives for our social justice movements. We will also consider what's possible when we remove the boundaries between creator and viewer in order to foster more vibrant, participatory art experiences. We will share best practices for funding, collective media production, and grassroots distribution while devising strategies for using our media as tools for popular education." ,
-		"coordinators": ["Anna Barsan", "Jessie Levandov", "Marcelitte Failla", "Claudia O'Brien"]
+		"padId": "2017_Track_Sound_Revolution_And_Artivism",
+		"title": "Sound, Revolution and ARTivism",
+		"subtitle": "Music as a powerful tool of resistance",
+		"description": "Music is a symbol of freedom, identity and a powerful tool of resistance. Through sessions, presentations, and performances, this track will explore music and its role within social movements and organizing. We will investigate how oppressive systems rooted in colonization continue to marginalize those who perform politicized music in an attempt to erase the songs and messages they carry. We will also look at how other forms of media production are used with music to strengthen its impact. Participants will identify practices that demonstrate how music can be a vehicle for political imagination, the gathering of historical memory, and the amplification of critical messages within our movements.",
+		"coordinators": ["Krusheska Quiros", "Estephania Solis", "David Hawkins"]
 	},
-	"Performance from the Stage to the Street": 
+	"Securing Our Spaces Track":
 	{
-		"padId": "2016_Track_Performance_from_the_Stage" ,
-		"title": "Performance from the Stage to the Street Track",
-		"subtitle": "Embodying our visions of the world",
-		"description": "As performers we embody our visions of the world. We create performances on stages, streets, and dance floors, in spiritual centers, on social media and with our bodies every day. How do we use performance to navigate the worlds we live in? How have our communities historically used performance to resist oppression? How can performance be further used to organize and inspire our communities? This track is for self-identified performers of all kinds, and anyone interested in how performance can be used to create a more just world. There will be live performances and opportunities to learn about different styles, including dance, theater, burlesque, clown, music, poetry, capoeira and more! We will also explore some of the issues performers face historically and in their day-to-day lives around vulnerability and visibility, emotional cycles, and more.",
-		"coordinators": ["Una Osato", "Michi Osato"]
+		"padId": "2017_Track_Securing_Our_Spaces",
+		"title": "Securing Our Spaces",
+		"subtitle": "Digital and physical security in our communities",
+		"description": "Physical and digital security are more crucial now than ever. Safety comes in many forms, from how to safely organize and protest, to how to safely use the technologies that support our movements. Today's technology allows activists to find resources, connect with each other, and broadcast their stories; it also makes it easier to surveil and intimidate. This track will explore how we can better do the work we do in safe and protected ways, and how to support each other in this task. We will explore the long histories of surveillance in our communities. We will practice methods and tools for securing our spaces both online and offline.",
+		"coordinators": ["Nat Meysenburg", "Matt Mitchell", "Leigh Honeywell", "Alfredo Lopez"]
 	},
-	"RAD Care Beyond Social Justice": 
+	"Electric Dreams, Digital Futures Track":
 	{
-		"padId": "2016_Track_RAD_Care_Beyond_Social_Justice",
-		"title": "RAD Care Beyond Social Justice Track",
-		"subtitle": "Self and community care in practice",
-		"description": "What does self and community care look like in practice? How can communal and ancestral knowledge inform an anti-colonial and anti-capitalist approach to wellness? RAD (Radical, Accessible & Decolonizing) Care is about centering marginalized people, people who don't see themselves represented in movement building, and gathering to share collective knowledge and teach how to be in allyship with one another. The RAD Care Beyond Social Justice Track will collectively envision new ideas of accessibility and wellness through self-determination and mutual care. We will practice challenging ableism, surviving trauma, internalizing self-care, and working at the roots of oppression through equitable, mutual community care. Participants will walk away with practical skills to engage in radical care practices in their day-to-day lives with a critical analysis of inclusivity.",
-		"coordinators": ["Smitty Buckler", "RC Brown", "Theresa Soto", "Renee Jarreau Greene", "Zoe Grieder", "Ariel Howland"]
+		"padId": "2017_Track_Electric_Dreams_Digital_Futures",
+		"title": "Electric Dreams, Digital Futures",
+		"subtitle": "Honoring the transformative potential of technology",
+		"description": "We dream of a “future electric” – where safe communication is a fundamental human right, where technology deepens relationships instead of exploiting them, and where we honor the transformative potential of technology grounded in the organizing wisdom of our elders and teachers.<br/><br/>In this track we will celebrate the “community technology” successes that have come before as we plan for what is to come. We have opened local radio waves, created principles for digital justice, built networks of community technologists, fought for the communication rights of incarcerated people, defended internet openness, and trained communities in how to build out and distribute internet connectivity. Learning from these stories, we will explore emerging tech tools and practices to recover from disasters [or climate emergencies], resist rising fascism, and to help us protect our communities against oppressive technologies like predictive algorithms and data profiling.",
+		"coordinators": ["Greta Byrum", "Seeta Peña Gangadharan", "Hannah Sassaman", "Janice Gates", "Di Loung", "Helyx Chase"]
 	},
-	"Radical Librarianship": 
+	"Poetry and Publishing Track":
 	{
-		"padId": "2016_Track_Radical_Librarianship",
-		"title": "Radical Librarianship Track",
-		"subtitle": "Educating, informing and creating bridges",
-		"description": "Libraries, archives, and museums do media-based work that educates, informs, and creates bridges to culture and technology. The Radical Librarianship Track will address a broad range of media-based organizing themes: envisioning libraries and archives as centers for supporting movements for social equity; as information providers for social justice workers; and as places to explore how to use art, media, and technology for social transformation. In this track we will specifically consider the role of librarians and archivists in strengthening the knowledge, culture, and collective memory of communities impacted by chronic divestment and gentrification.",
-		"coordinators": ["Katie Dover-Taylor", "Andrea Pérez", "Heidy Berthoud", "Benjamin Miller", "Celeste Re"]
+		"padId": "2017_Track_Poetry_And_Publishing",
+		"title": "Poetry and Publishing",
+		"subtitle": "Activating publics",
+		"description": "A poem has the power to tune our attention to how language, a tool we use everyday, constructs the world around and within us. The Poetry and Publishing Track seeks to engage with the ways that poetry and publishing can be used to assemble individuals for the purposes of dreaming, healing and resistance. We think about publishing as anything that activates publics by connecting a text to an audience, whether that text is spoken, performed, or printed. Participants in this track will explore questions around the social and documentary aspects of poetry, themes of authorship and identity, the role poetry plays in transformative pedagogy, and conversations around publishing, distribution, and access. Through workshops, presentations, slams and readings, participants will have the chance to share and reflect on their own creative practice and to join a network of socially engaged poets, performers, and publishers to discuss historic and contemporary poetics and publishing practices in the context of social justice.",
+		"coordinators": ["Megan Stockton", "Maia Asshaq", "Mahogany Jones", "Matt Polzin"]
 	},
-	"Resourcing and Sustaining Our Movements": 
+	"Design Justice Track":
 	{
-		"padId":"2016_Track_Resourcing_and_Sustaining_our_Movements" ,
-		"title": "Resourcing and Sustaining our Movements Track" ,
-		"subtitle": "Collaboration, solidarity and abundance",
-		"description": "How can we fund, resource and sustain our work and movements in ways that energize us, strengthen our organizing, and build community? The Resourcing and Sustaining our Movements Track will investigate and examine grassroots fundraising how-tos, self and community care strategies, alternative economic models (i.e. co-ops, gift economies, etc.), grassroots entrepreneurship and the role of media, art and technology in supporting it all. Through participatory workshops, one-on-one consulting, skill shares, and peer networking spaces, we will explore how to grow the resources we need for our movements and communities to thrive. Whether you are starting a collective, operating a small business, working as an independent artist, running a nonprofit, or work outside of traditional non-profit structures – this space is for you! We will walk away with new fundraising ideas, relationships, and the spirit of collaboration, solidarity, and abundance.",
-		"coordinators": ["Tanya Mote", "Crystal Middlestadt","Allison Budschalow"]
+		"padId": "2017_Track_Design_Justice",
+		"title": "Design Justice",
+		"subtitle": "Making design more just",
+		"description": "How can design better support communities facing injustice? How can we foster design processes, and not just products, that uplift our movements’ values? The Design Justice Track builds on principles that have been shaped by the AMC community and is a place where we can put these principles http://designjusticenetwork.org/network-principles into action. Through storytelling, idea generation, and reflection, we will identify and uplift strategies to make design more just for those who are marginalized by it. Participants will be welcomed into the Design Justice Network, a community of design practitioners and organizers who are applying the design justice principles to their work. Participants will also gain methods and models they can bring to their own community-based design practices.",
+		"coordinators": ["Adrienne Gaither", "Victoria Barnett", "Carlos Garcia (L05)", "Sasha Costanza-Chock", "Taylor Stewart"]
 	},
-	"Women in Hip Hop": 
+	"Youth Activism in Hip Hop Track":
 	{
-		"padId": "2016_Track_Women_in_Hip_Hop" ,
-		"title": "Uplifting Women’s Voices in Hip Hop Track",
-		"subtitle": "Feminist Hip Hop Activism",
-		"description": "Hip Hop has many cultural forms (DJing, dance, emceeing, graffiti, and knowledge) but too often these are used as propaganda tools to oppress women of color. The Uplifting Women’s Voices in Hip Hop Track will bring together artists, activists and academics to stage new conversations utilizing creativity to reshape the dominant narratives in music and media." ,
-		"coordinators": ["Piper Carter", "Nina Payne", "Deshaunda Sullivan", "Naeemah Martin", "Salamah Sulaiman", "Jade Lathan"]
+		"padId": "2017_Track_Youth_Activism_In_Hip_Hop",
+		"title": "Youth Activism in Hip Hop",
+		"subtitle": "Uplifting hip hop and urban arts",
+		"description": "The Youth Activism in Hip Hop Track will celebrate hip hop culture and its influence in youth movements. We will honor the expertise of young folks most impacted by injustices and we will uplift their resistance. What role does hip hop play in movement building? What do movements that are truly created by and directed by youth look like? We will share how to use art, media and technology to organize, and we will learn from our young community experts who are sharing skills and facilitating strategy sessions to uplift the five elements of hip hop.",
+		"coordinators": ["Shalina S. Ali", "Fidel Verdin", "N'yasia Valdez"]
 	},
-	"Youth Making Movements": 
+	"Food Matters Track":
 	{
-		"padId":"2016_Track_Youth_Making_Movements" ,
-		"title": "Youth Making Movements Track",
-		"subtitle": "Youth-centered activism and dreaming",
-		"description": "The Youth Making Movements Track will celebrate youth leadership that is creating culture and building movements. We will honor the expertise of young folks most impacted by injustices and we will uplift their resistance to oppressive social norms and standards. What do movements that are truly created by and directed by youth look like? We will share how to use media, art, community-based research and technology to organize, and we will learn from our young community experts who are sharing skills and facilitating strategy sessions on youth centered activism and dreaming.",
-		"coordinators": ["Fayise Abrahim", "Nyasia Valdez", "Dakarai Carter", "Irina Barrera", "Neese Parker"]
+		"padId": "2017_Track_Food_Matters",
+		"title": "Food Matters Track",
+		"subtitle": "Personal and collective food stories",
+		"description": "Food is a medium through which we tell our own stories, the stories of our communities, and connect across time and space. Now more than ever, many communities are reclaiming traditional food as an essential strategy for decolonizing and sustaining our cultures, bodies, lands and water. But who is in charge of the stories about our food? How can we take charge of those stories, encouraging food makers to see themselves as media makers and encouraging media makers to engage more directly with the people who actually make food? The Food Matters Track will explore the social, cultural, economic and ecological dimensions of food practices. Through hands-on workshops, field trips, roundtable discussions, media-making, cooking, and sharing recipes and meals, we will explore our personal and collective food stories and use media-based practices to examine food and its many connections to resistance and liberation.",
+		"coordinators": ["Munira Lokhandwala", "Ora Wise", "Kimberly Chou", "Shane Bernardo", "Kate McCabe", "Max Sussman"]
+	},
+	"Healing Justice Track":
+	{
+		"padId": "2017_Track_Healing_Justice",
+		"title": "Healing Justice",
+		"subtitle": "Centering and demystifying healing",
+		"description": "The Healing Justice Track is a Detroit-led collaborative space where attendees can come together in conversation, creative visioning, and on-the-ground organizing to build and share practices towards deepening community resilience. The space will revolve around centering and demystifying healing – being mindful of how healing happens as much in the care of one another, as it does in the capacity of our own remembering, hearts, and hands. Sessions will emphasize restorative ways of caring for oneself, family, friends, community, and the earth. This could include group ear acupuncture paired with Reiki, guided mindful movement and meditation, people land connections, magic, personal and collective accountability, and roundtable conversations. Our goal is to activate and uplift the knowledge, wisdom and experience of healing in the room, in all the ways it does and can exist.",
+		"coordinators": ["Sarah Sidelko", "Violeta Donawa","Rhiannon Chester"]
+	},
+	"Wage Love Track":
+	{
+		"padId": "2017_Track_Wage_Love",
+		"title": "Wage Love",
+		"subtitle": "Rooting our movements in ancestral wisdom",
+		"description": "Detroit-rooted, international activist and healer Charity Hicks first issued the call to “wage love” in the ongoing fight against water shutoffs in Detroit. Since then, this call has evolved into a consciousness. “Wage Love” encompasses the many ways Detroit communities transform state-sanctioned violence and structural racism into action that builds beloved community and deepens connections. Our movements are rooted in ancestral wisdom, materials and practices that precede empire and fascism. Through this track, we will draw from our sense of ancestry and indigeneity, either as Native peoples of Turtle Island or as ancestrally rooted people within diaspora. We will learn how different forms of ancestral practices, improvisational ceremony, healing and resistance are being reclaimed and applied to liberate and uplift our movements and spirits.",
+		"coordinators": ["Shane Bernardo", "Bryce Detroit", "Sacramento Knoxx", "Christy Bieber", "Will Copeland"]
 	}
 }

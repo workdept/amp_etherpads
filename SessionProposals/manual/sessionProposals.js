@@ -1,11 +1,11 @@
 var Tabletop = require('tabletop'),
     etherpadLiteClient = require('etherpad-lite-client'),
-    fs = require('fs');
+    fs = require('fs'),
+    FromTabletop = require('./TabletopToFormResponse.js'),
+    EtherpadCreator = require('../common/EtherpadCreator.js')
 
 
 
-var padContentBuilder = require("./padContentBuilder"),
-    rowUtils = require("./rowUtils");
 
 var dateString = new Date().toString().slice(0, 24).replace(/\W+/g, '_');
 
@@ -30,7 +30,7 @@ var ETHERPAD_ID_PREFIX = "2016_Session";
 var ep = etherpadLiteClient.connect({
   apikey: '9e7d36e7a4a510484d523f29753a8c0079bdb008ec64e7749911c76e4118a185',
   host: 'etherpad.alliedmedia.org',
-  port: 443
+  port: 80
 });
 
 var ETHERPADS_ID_CHAR_SIZE_LIMIT = 50;
@@ -42,22 +42,16 @@ function processSessionsSheet (data, tabletop) {
   var rows = sheet.elements;
   var numberOfRows = rows.length;
   var urls = [];
-  for(var i = 0; i < numberOfRows; i++) {
-    var row = rows[i];
-    var padId = getPadId(row, i+1);
-    var padContent = padContentBuilder.build(row);
 
-    urls.push("https://etherpad.alliedmedia.org/p/" + padId);
-    var callback = function (padIdClosure, padContentClosure) {
-            return function(error, data)
-            {
-              createPadCallback(error, data, padIdClosure, padContentClosure)
-            };
-        }(padId, padContent);
-    ep.createPad({padID: padId}, callback);
+  for(var index in rows) {
+    var proposal = FromTabletop.convert(rows[index]);
+    var url = EtherpadCreator.create(proposal, false);
+    console.log(url);
   }
 
-  outputUrls(urls);
+
+
+
 }
 
 
@@ -130,9 +124,9 @@ function setTextCallback(error, data, padIdClosure, padContentClosure) {
 
 
 Tabletop.init({
-  key: "17oclTki8oaYwsRsqyYDm0i3oiEKsNy__ZQEUlSv8pmc",
+  key: "1ImIaV3EU6g6CTsJzIRJszd7df9JfX2kTDazwbQz7KM0",
   callback: processSessionsSheet,
-  prettyColumnNames: false,
+  prettyColumnNames: true,
   simpleSheet: false
 });
 

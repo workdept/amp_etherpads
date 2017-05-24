@@ -2,17 +2,15 @@ const https = require('https');
 const fs = require('fs');
 
 var options = {
-  hostname: 'amc2016.sched.org',
+  hostname: 'amc2017.sched.com',
   port: 443,
-  path: '/api/session/export?api_key=52170132204a193988c1d755c20cd04d&format=json&strip_html=Y&custom_data=Y',
+  path: '/api/session/export?api_key=97830babbb84c1f6f78b8011ed5d434e&fields=name,event_type&format=json&strip_html=Y&custom_data=Yes',
   method: 'GET',
   headers: {'user-agent': 'node/123'}
 };
 
 var body = "";
 var req = https.request(options, (res) => {
-  console.log('statusCode: ', res.statusCode);
-  console.log('headers: ', res.headers);
 
   res.setEncoding('utf-8')
   res.on('data', (d) => {
@@ -35,15 +33,11 @@ function onEnd() {
 	appendData('<?xml version="1.0" encoding="utf-8"?>\n<flow>\n<sessions>');
 	var numEvents = events.length;
 	for(var i = 0; i < numEvents; i++) {
-		console.log(events[i]);
-		appendNode("title", events[i].name);
-		appendNode("tracks", parseTPSNGInfo(events[i]));
-    appendNode("description", events[i].description);
-    appendNode("seshtype", events[i].event_type);
-		appendNode("location", events[i].venue);
-		appendNode("presorgs", getPresenters(events[i]));
-    appendNode("hashtag", events[i].Hashtag || "#AMC2016");
-
+		var event = events[i];
+    console.log(event);
+    break;
+		appendNode("sesh_type", event.subject);
+		appendNode("session_title", event.name);
 	}
 	appendData("\n</sessions>\n</flow>\n");
 }

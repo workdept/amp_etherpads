@@ -6,15 +6,15 @@ var Tabletop = require('tabletop'),
 var ep = etherpadLiteClient.connect({
   apikey: '9e7d36e7a4a510484d523f29753a8c0079bdb008ec64e7749911c76e4118a185',
   host: 'etherpad.alliedmedia.org',
-  port: 443
+  port: 80
 });
 
 
 
 Tabletop.init({
-  key: "17oclTki8oaYwsRsqyYDm0i3oiEKsNy__ZQEUlSv8pmc",
+  key: "1ImIaV3EU6g6CTsJzIRJszd7df9JfX2kTDazwbQz7KM0",
   callback: processSessionsSheet,
-  prettyColumnNames: false,
+  prettyColumnNames: true,
   simpleSheet: false
 });
 
@@ -23,7 +23,7 @@ function processSessionsSheet(data, tabletop) {
   	var rows = sheet.elements;
   	var urls = [];
   	var padContent = buildPadContent(rows);
-  	ep.setHTML({padID: "2016_General_Track", html: padContent}, function(){});
+  	ep.setHTML({padID: "2017_General_Track", html: padContent}, function(){});
 
 }
 
@@ -48,13 +48,13 @@ function buildPadContent(rows) {
 			padContent += "<br>";
 	  		var numberOfRows = rows.length;
 
-			var trackName = "General (if your session idea doesn't fit into any of these tracks)"
+			var trackName = "General Track"
 	  		for(var i = 0; i < numberOfRows; i++) {
 			var row = rows[i];
-  			if(row['towhattrackareyouproposing'].startsWith(trackName)) {
-  				padContent += "<strong>" + row['sessiontitle'] + "</strong>";
+  			if(row["Which Track or Practice Space would you like your session to be a part of?"].startsWith(trackName)) {
+  				padContent += "<strong>" + row['What is your session title?  '] + "</strong>";
   				padContent += "<br>";
-  				padContent += row['etherpadurl'];
+  				padContent += row['Etherpad Url'];
   				padContent += "<br><br>"
   			}
 		}

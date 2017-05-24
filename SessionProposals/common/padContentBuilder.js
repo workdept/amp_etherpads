@@ -19,8 +19,9 @@ function buildSessionInfoSection(sessionInfo) {
 	padContent += buildContentSection("TPSNG", sessionInfo.track_practice_space);
 	padContent += buildContentSection("Content type", sessionInfo.content_type);
 	padContent += buildContentSection("Description", sessionInfo.description);
-	padContent += buildContentSection("Media-based organizing", sessionInfo.media_based);
-	padContent += buildContentSection("Need scholarship?", sessionInfo.requires_scholarship);
+	padContent += buildContentSection("How is this connected to media-based organizing?", sessionInfo.media_based);
+	padContent += buildContentSection("Need registration support?", sessionInfo.requires_registration_support);
+	padContent += buildContentSection("Need additional scholarship?", sessionInfo.requires_additional_scholarship);
 	padContent += buildContentSection("Audience", sessionInfo.audience);
 	padContent += buildContentSection("#hashtag", sessionInfo.hash_tag);
 	padContent += buildContentSection("Anything else?", sessionInfo.other);

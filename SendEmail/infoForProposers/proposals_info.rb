@@ -29,8 +29,8 @@ for for_amc_to_review in for_amc_to_review_array
   	end
 end
 
-
-(1..519).each do |i|
+count = 0
+(136..519).each do |i|
  	response_array = responses_array[i]
  	session_name = response_array[57]
  	next if !session_name || session_name == ""
@@ -76,24 +76,32 @@ end
  	if (num_codes.to_i == 0)
  		subject = "Your Session Time and Airport Shuttle Sign Up"
  		body = build_info_without_codes response
+
  	else
  		subject = "Your Session Time, Registration Info and Airport Shuttle sign up"
  		codes_for_proposal = []
- 		puts codes_for_proposal
- 		for i in 1..num_codes
+ 		for j in 1..num_codes
 	    	codes_for_proposal << codes.shift	
 		end
-
+		puts codes_for_proposal
  		body = build_info_with_codes response, codes_for_proposal
 
  	end
 
  	recipients = []
  	
+	#recipients << {:name => 'Murtuza Boxwala', :email => 'mboxwala@umich.edu'}
+	#recipients << {:name => 'Muna Danish',     :email => 'muna@alliedmedia.org'}
+	#recipients << {:name => 'Morgan Willis',   :email => 'morgan@alliedmedia.org'}
+	#recipients << {:name => 'Meg Heeres',      :email => 'meg@theworkdept.com'}
+	#recipients << {:name => 'Meghan Sweet',    :email => 'meghan.sweet@gmail.com'}
 	
 
-	#recipients << {:name => response[:name], :email => response[:email]}
-	
- 	#send_email(recipients, body, subject)
- 	break
+	count += 1
+	recipients << {:name => response[:name], :email => response[:email]}
+
+	puts recipients
+ 	send_email(recipients, body, subject)
+
 end
+puts count

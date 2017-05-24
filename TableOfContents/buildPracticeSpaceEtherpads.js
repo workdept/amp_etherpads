@@ -1,4 +1,5 @@
 
+var sleep = require('sleep')
 var Tabletop = require('tabletop'),
     etherpadLiteClient = require('etherpad-lite-client'),
     fs = require('fs');
@@ -6,7 +7,7 @@ var Tabletop = require('tabletop'),
 var ep = etherpadLiteClient.connect({
   apikey: '9e7d36e7a4a510484d523f29753a8c0079bdb008ec64e7749911c76e4118a185',
   host: 'etherpad.alliedmedia.org',
-  port: 443
+  port: 80
 });
 
 
@@ -14,9 +15,9 @@ var ep = etherpadLiteClient.connect({
 var practiceSpaceNamePadMap = JSON.parse(fs.readFileSync('PracticeSpaceNamePadMap.json', 'utf8'));
 
 Tabletop.init({
-  key: "17oclTki8oaYwsRsqyYDm0i3oiEKsNy__ZQEUlSv8pmc",
+  key: "1ImIaV3EU6g6CTsJzIRJszd7df9JfX2kTDazwbQz7KM0",
   callback: processSessionsSheet,
-  prettyColumnNames: false,
+  prettyColumnNames: true,
   simpleSheet: false
 });
 
@@ -65,10 +66,11 @@ function buildPadContent(practiceSpaceName, practiceSpaceInfo, rows) {
 
 	  		for(var i = 0; i < numberOfRows; i++) {
 			var row = rows[i];
-  			if(row['whichpracticespaceareyouproposingfor'].startsWith(practiceSpaceName)) {
-  				padContent += "<strong>" + row['whatisthetitleofyourpracticespacesession'] + "</strong>";
+  			if(row['Which Track or Practice Space would you like your session to be a part of?'].startsWith(practiceSpaceName)) {
+  				console.log("reached here")
+  				padContent += "<strong>" + row['What is your session title?  '] + "</strong>";
   				padContent += "<br>";
-  				padContent += row['etherpadurl'];
+  				padContent += row['Etherpad Url'];
   				padContent += "<br><br>"
   			}
 		}

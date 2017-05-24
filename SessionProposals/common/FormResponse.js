@@ -12,7 +12,7 @@ exports.PresenterInfo = function(name, email, phone, bio, affiliation) {
     this.affiliation = affiliation;
 }
 
-exports.SessionInfo = function (title, description, content_type, track_practice_space, media_based, audience, hash_tag, requires_scholarship, other)
+exports.SessionInfo = function (title, description, content_type, track_practice_space, media_based, audience, hash_tag, requires_registration_support, requires_additional_scholarship, other)
 {
     this.title = title;
     this.description = description;
@@ -21,7 +21,8 @@ exports.SessionInfo = function (title, description, content_type, track_practice
     this.media_based = media_based;
     this.audience = audience;
     this.hash_tag = hash_tag;
-    this.requires_scholarship = requires_scholarship;
+    this.requires_registration_support = requires_registration_support;
+    this.requires_additional_scholarship = requires_additional_scholarship;
     this.other = other;
 }
 
