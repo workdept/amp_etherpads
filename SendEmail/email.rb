@@ -61,17 +61,12 @@ Content-Transfer-Encoding:8bit
 	<meta name="format-detection" content="telephone=no" />
 	<title>AMC Session</title>
 
-
-
-
-	
-
 </head>
 <body>
 #{body}
 </body>
 </html>
---#{marker}
+--#{marker}--
 EOF
 
 

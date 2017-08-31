@@ -1,5 +1,599 @@
 <?xml version="1.0" encoding="utf-8"?>
 <flow>
 <sessions>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>The Black Photographic Image: Future Perspectives</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Packet Sniffing for Everyone</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>Farm Fun Exploration Part 2 </session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Creating Nuanced Stories of Communities of Color</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Welcome Party: Detroit Culture Council x One Mile</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Crash Course in Photography and Storytelling</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Building of Black Detroit Tour Part 2 </session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Podcasts for Re-Centering Narratives</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Community Care Lunch Meet-Up</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Listening is a Revolutionary Act</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Kreung Kitchen orientation &amp; paste making</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Detroit Comix Party: Something from Nothing</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Living Letters: A Hollerin Space</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Trans*Visible Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Words are Spells: Daily Consent for Kids</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Counterpoints: Stories and Data for Resisting Displacement</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Organizing for Healing Justice</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Community Archiving for Audiovisual Recordings</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Collective Knowledge Network Gathering</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Mitigating Evidence</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Recipes of Resilience: Transforming Trauma Through Food</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Sustainable Building Solutions for Climate</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Avoiding CointelPRO 2017</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Black x Queer x Poly: 195 Lewis</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Collecting Resistance: Histories of Social Justice in Detroit</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Art of Coping</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Black Touch: A Somatic Healing Space</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Your Problems Are Relevant</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Build it Strong: Collective Governance for Collective Liberation</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Accessing Body Memory through Dance</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Doing Data Justice</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Intergalactic Conspiracy of Childcare Collectives Network Gathering</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Schools Not Prisons</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Video and Social Movements 101</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Reimagining Food Media</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>DANCE DANCE (R)EVOLUTION</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Toward Education Justice</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>&apos;WITH YOU!&apos;: A Queer Sports Rom-Com</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Soul of a Public Library</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Working Girls Own the Void</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Reimagining Movement Resource Strategies Network Gathering</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Writing Resistance and Recovery</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Migratory Times, Staying Power</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Artists and Organizers Shifting Culture</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Seraphine Collective Presents the Collective Knowledge Showcase</session_title>
+	<sesh_type></sesh_type>
+	<session_title>RAD Care Beyond Social Justice Network Gathering</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Talk the Talk: AirGo and Dialogue as Resistance</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Live Audio Drama: Giving Voice to Our Ancestors</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Remixing Archival Videos</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Ratchet Teachers</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Insurgent Logistics: Taking Back Supply Chains</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Modeling the Micropress: A Publishers’ Roundtable</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Music Journalism For the People</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Community Care Lunch Meet-Up</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Riverwise: Writing Our History, Writing Our Future</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Technology for Social Justice: Field Scan Workshop</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>We’re Our Best Resource</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Artivists&apos; Music Video Lounge</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Meaningful Acts of Disruption</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Start Your Own Podcast</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Mamas and Grandmas for the Revolution</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Curating Closure: The Civil Rights Restorative Justice Project</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Mothering the Revolution</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>The Evolution of &apos;The Talk&apos;</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Real Talk with Major Donors</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Street Therapy: Emotional Safety for Resistance</session_title>
+	<sesh_type></sesh_type>
+	<session_title>MAG-Net Network Gathering</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>AMC Kids Party</session_title>
+	<sesh_type>Plenary</sesh_type>
+	<session_title>Welcome Plenary: Past, Present, Futurism</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Dreamspace Project: Anti-Racist Pedagogy for Museum Education Part 1</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Community Care Lunch Meet-Up</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Go Big: Launching A Massive Student Movement</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Community Led Business Models</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Kreung Cooking Part 1 </session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>The Art of Detroit&apos;s Resistance</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Healers Rise Up</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Training a New Generation of Language Justice Workers</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Interactive Streets: Biking and Placemaking</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Detroit/Puerto Rico Solidarity Exchange</session_title>
+	<sesh_type>Plenary</sesh_type>
+	<session_title>Data and Power</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Starting an Ancestor Practice</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Comida Con Cuidado (Food With Care)</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Youth Leading Change: Hip Hop Artivism</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Food Chains: Farmworker Rights in the 21st Century</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Clifford Cartel&apos;s Rap Stories</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Crowdfunding for Social Justice</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>DIY Futures Through Architectural Zines</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Holding Space Part 2: Facilitating Collective Self-Governance</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Pocket Histories: Zine-making to Share Community Stories</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Don&apos;t Stop! Get it, Get it: A Pan African History of Twerk</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Developing Resilient Data Infrastructures</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Game Curious: Videogame Literacy For Underserved Communities</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Grassroots Infographics: Designing Data Equity</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>Kreung Cooking: Cambodian Pickles Part 2</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Reel Stories: Bridging Communities Through Filmmaking</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>From Growing Our Economy to Growing Our Souls Tour Part 1</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Black Independence Celebration</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Gender Blender</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>From Media to Medium: Creating Revolutionary Oracles</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>2 Cute 2 Be Erased: DIY Video Diaries</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Lunch Love: Parents &amp; Child Caregivers</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Dreaming from the Archive</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Portable Network Kits</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Breastfeeding/Changing Room</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Who Are You?: A Visual Storytelling Exercise for Children</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>The Human Right to Water</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Resourcing Your Work Through Residencies</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Supporting Loved Ones in Times of Crisis</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Sarap: A Pilipinx Horror Drag Cooking Show</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Dreamspace Project: Anti-Racist Pedagogy for Museum Education Part 2</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Fly Freedom Makers</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>&apos;The Year We Thought About Love&apos; Film Screening</session_title>
+	<sesh_type></sesh_type>
+	<session_title>FemTechNet Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Using Creative Commons for Collaboration</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Power, Belief, and the (word) Whore</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>All Good Food Has A Story. We Tell Part 1</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Ableism, Accessibility, and Oral Histories</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Communiversity</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Creating Intentional Healing Communities</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Facilitating a Community Accountability Process</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Alternative Teaching Practice: FemTechNet</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Boggs School Parade Part 2</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Power to the Pop-Up</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Vida Muertos: Critical Genre Practice</session_title>
+	<sesh_type></sesh_type>
+	<session_title>No Perfect Victims Network Gathering</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Black Unicorn Pop-Up Library</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Boggs School Parade Part 1</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>From Growing Our Economy to Growing Our Souls Tour Part 2</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Getting Good Audio</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Illuminate the World with Light Painting</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Pro Heaux: Sex Positivity From the Ground Up</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Decolonize This! Reindigenizing Tech and Media</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Teaching Community Technology</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>SNCC Digital: Learn from the Past, Organize for the Future</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Place-based Poetry (Part 1)</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Numbers and Narratives</session_title>
+	<sesh_type>Plenary</sesh_type>
+	<session_title>Stories Become Movements, Become Stories</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Open Source Virtual Drum Machines</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Black Youth Storytelling Through Virtual Reality</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Holding Space Part 1: Strategies for Anti Oppressive Facilitation</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Digital Timelines for Movement Organizing</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Sampling and Sound Sourcing</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Design in Full Color: An Authentic Discussion on Diversity</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Exploring Data as a Tool in Public Libraries</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Kreung Cooking Part 2</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Electronically Woke</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Shared Spaces: Imagining A Radical History Online Portal</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Karaoke + Bowling</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Nuts and Bolts of Fundraising From Foundations</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>360-Degree Video for Activists</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>QTIPOC are Living Mythologies</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Vulnerability Before Accountability</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Community Cooks</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>360 Degrees of Dance</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Graphic Designers, Printers and Programmers Resist</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Civic Institutions and Youth Experiences</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Fact Checking Fake vs. Real News</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Expressive Electronics</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Beyond Security: Technology and Revolution</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>We the People of Detroit Community Research Collective</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Activist Archiving 101</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Rejecting the Master’s Tools to Transform Public Libraries</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Engaging Interviewing and Hosting</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Adornment: Self-Care Beauty Rituals</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Radical Visibility: QueerCrip Fashion and Performance</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Liberated Kids: Superheros for the Revolution</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>All Good Food Has A Story. We Tell It Part 2 </session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Decolonizing Indigenous Food and Seed</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Emergent Strategy: Shaping Change, Changing Worlds</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>With Wings and Roots: Screening and Discussion</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Read the Comments! Fostering Constructive Digital Dialogues</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Wonderful Welcome Games</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Pathways for Youth Voice in Public Media</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Spells for Radicals</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Transformative Radio with CKUT 90.3 FM</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Kreung Earthworks Urban Farm Tour</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Archives for Empowerment</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>DIY Internet Radio Exploration</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Tracking Ida</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Opening Ceremony</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>brASS: Brown RadicalAss Burlesque</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Kicking Literacy Kickball Game</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Publishing for the People: Books as Lovework</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Stop-Motion PSAs</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Using Tarot to Access Poetry’s Possibilities</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Radical Community Spaces Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Healing with Tai Chi</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Organizing for Cultural Equity</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Self Care for Birthworkers</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Teen Presence in the National Museum of Mexican Art</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Creating All-Black Spaces</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Alternative Futures</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Diggin Deep: Remixing Research</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Creative &amp; free digital communication strategies</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Impact, Storytelling, and Community Archives</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Cover Your Tails!</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Transforming the Family Album</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Poetry and Publishing from Inside</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Kreung Dinner Team Building &amp; Learning: Chum Reap Sew</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Abundant Bodies Network Gathering</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Getting Schooled: Detroit Public Schools on Stage</session_title>
+	<sesh_type></sesh_type>
+	<session_title>AMC Exhibition Area</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Poetry As Visionary Resistance</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>DIY Embroidered Patches</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Detroit Through the Eyes of James and Grace Lee Boggs</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Capoeira Angola of Bahia in Detroit</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Poet as Witness</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Closing Celebration</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Video for Revolution</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Deep Listening: An Embodied Meditation</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Oral History 101 for Organizers</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Visual Resistance and Design for Our Movements</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Kreung Cambodia Community Dinner</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Electronic Health and Safety in the Borderlands</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Allied Ever After</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Tools to Destigmatize Everyday Mental Health</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Making Space for Sobriety</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Building Consentful Technologies</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Feminist Transformative Justice Writing Workshop</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Rapid Response Media</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Pulling Strings at ArtPrize 2017</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Sarma: Diaspora of the Caucasus and Middle East</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Queer Black Sunday School Choir Practice</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Twitter Responses to Police Violence</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Diversity in Youth Literature</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Care Webs</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Know Admin, Know Art: Co-Manage Your Project With CultureWorks</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Families United 4 Justice Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Vision Archive: Picturing the World We Want to Live In</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>STEM for the Resistance</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>From Growing Our Economy to Growing Our Souls Tour Part 1</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Beyond Ideas of Binary Harm</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>City Government and Civic Media</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>How to Set-Up and Livestream an Event</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Humanizing Schooling in Detroit</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Power Not Paranoia!</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Build a Childcare Collective</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Translating Legends: Preserving Native History of the Americas</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Embodied Twitter</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Another World is Possible: Poetry as Speculative Activism</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Create Your Own Social Justice Warrior</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Childcare</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Fighting Islamophobia and Anti-blackness Through Youth Media</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Deep Relaxation Room</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>A Rehearsal for the Revolution</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Map the Power</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Protect Ya Self Love</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Private Screenings, Public Imaginaries in Migratory Times</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Build an Individual Giving Program from Scratch</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Translation, Migration and Creative Resistance</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Info Desk</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Get Over Your Fear of Asking</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Beneath the Moonlight</session_title>
+	<sesh_type>Plenary</sesh_type>
+	<session_title>Popular Cultures for New Worlds</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Finding Yourself in the Break: Lessons in Black Jazz Meditation</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Black Joy Project</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Latinx Healing from Colonialism</session_title>
+	<sesh_type></sesh_type>
+	<session_title>AMC Work Room</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Detroit UNESCO City of Design conversation</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>OpenOversight</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Graffiti and Rap Against The System</session_title>
+	<sesh_type>Practice Space session</sesh_type>
+	<session_title>Girl, I Got You</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Collaborative Security: From Training to Empowerment</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Design Justice Exhibition</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Building Tech to Hold Police Accountable</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Surveillance As a Primary tool of The Stalker State</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>Farm Fun Exploration Part 1 </session_title>
+	<sesh_type></sesh_type>
+	<session_title>Good Food Good Jobs Network Gathering</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>The Black Joy Mixtape Podcast</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Tendings: Sustainable Artful Lives</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Knowing Our Bones: Somatic Practices for the Long Haul</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Black Trans Futures</session_title>
+	<sesh_type>Film Screening-Performance</sesh_type>
+	<session_title>Police Brutality Across Borders: FTP and the Missing 43</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Acupuncture and Reiki Healing Circle</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Transp0se: Music and Mindfulness</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Design Justice Network Planning Session</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Get Down, Stay Ready</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Living Your Soul&apos;s Purpose in Community</session_title>
+	<sesh_type></sesh_type>
+	<session_title>Groundswell: Oral History for Social Change Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Free Black Women&apos;s Library</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Rapid Accessibility Consultation</session_title>
+	<sesh_type>Panel-Presentation</sesh_type>
+	<session_title>Meme On: BIPOC Punk Fest Organizing In The Age of Dinosaurs</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>From Growing Our Economy to Growing Our Souls Tour Part 2</session_title>
+	<sesh_type>Strategy Session</sesh_type>
+	<session_title>Parenting for Liberation</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>TED-Ed: Amplifying Student and Educator Voice</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>The Connective Kite</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>What&apos;s In Your Wallet?</session_title>
+	<sesh_type></sesh_type>
+	<session_title>What Feeds Us? Network Gathering</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Encrypt Your Footage, Secure Your Movement</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Personal Digital Safety: Where Do I Start?</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>Thundercunts: Boom Concepts Party</session_title>
+	<sesh_type>AMC @ Night</sesh_type>
+	<session_title>The Gathering: An AMC Youth Party!</session_title>
+	<sesh_type>Hands-on Session</sesh_type>
+	<session_title>Community-Based Exhibitions for Movement-Building</session_title>
+	<sesh_type>Mealtime Meetup</sesh_type>
+	<session_title>Trap Yoga Party (Flicka da Wrist)</session_title>
+	<sesh_type></sesh_type>
+	<session_title>AMP Sponsored Projects Network Gathering</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>The Building of Black Detroit Tour Part 1</session_title>
+	<sesh_type>Tour/Field Trip</sesh_type>
+	<session_title>Kreung Cooking: Cambodian Pickles Part 1</session_title>
 </sessions>
 </flow>
